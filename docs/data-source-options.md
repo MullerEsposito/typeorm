@@ -542,11 +542,6 @@ Here is a small example of data source options for mysql:
     ],
     migrations: [
         "migration/*.js"
-    ],
-    cli: {
-        entitiesDir: "entity",
-        migrationsDir: "migration",
-        subscribersDir: "subscriber"
-    }
+    ]
 }
 ```
